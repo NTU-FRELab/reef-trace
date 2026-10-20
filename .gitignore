@@ -1,0 +1,7 @@
+# Research data and exported projects stay outside source control
+reeftrace-project*.json
+reeftrace-coco*.json
+reeftrace-growth*.csv
+data/
+photos/
+.DS_Store
