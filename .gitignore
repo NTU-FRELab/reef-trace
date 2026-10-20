@@ -5,3 +5,6 @@ reeftrace-growth*.csv
 data/
 photos/
 .DS_Store
+
+# Standalone research models
+*.reefmodel.json
